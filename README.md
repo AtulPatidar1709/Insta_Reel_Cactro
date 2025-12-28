@@ -42,22 +42,7 @@ npm install
 npm start
 ```
 
-## Project Structure
-
-src/
-├── Components/
-│   ├── PostSlider/          # Optional slider component
-│   ├── Posts/               # Posts feed component
-│   └── ReelModal/           # Reels modal with swipe navigation
-├── data/
-│   └── stories.json         # Sample post data
-├── utils/
-│   └── swipeHelper.js       # Swipe handling logic
-├── App.js                   # Main app component
-└── App.css                  # Global styles
-package.json
-
-##Usage
+## Usage
 
 - Scroll through the feed to see all posts.
 - Tap a post to open the Reels modal.
