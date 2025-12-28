@@ -24,20 +24,23 @@ A responsive Instagram-like Stories and Reels feature built with **React** and *
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/Instagram-Stories.git
-
+```
 2. Navigate to the project folder:
 
 ```bash
 cd Instagram-Stories
+```
 
 3. Install dependencies:
 
 ```bash
 npm install
+```
 
 4. Start the development server:
 ```bash
 npm start
+```
 
 ## Project Structure
 
